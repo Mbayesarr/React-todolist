@@ -1,0 +1,21 @@
+#form-add-todo,
+.title-add-todo,
+.title-edite-todo,
+#form-edite-todo {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+#edite-todo {
+  position: relative;
+  left: 300px;
+}
+#delete-todo {
+  position: relative;
+  left: 315px;
+}
+#completed-todo {
+  position: relative;
+  left: 330px;
+}
